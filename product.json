@@ -42,7 +42,8 @@
         "activated"
       ],
       "min_billable_numbers": 500,
-      "available": true
+      "available": true,
+      "product_id": 5
     }
   ],
   "pricing_url": "https://numberchecker.ai/pricing",
