@@ -1,4 +1,4 @@
-// X (Twitter) Number Checker API — .NET 6+ example. Docs: https://docs.numberchecker.ai/twitter-bulk-number-checker
+// X (Twitter) Number Checker API — .NET 6+ example. Docs: See this repository README and openapi.yaml (hosted product guide unavailable)
 using System;
 using System.IO;
 using System.Net.Http;

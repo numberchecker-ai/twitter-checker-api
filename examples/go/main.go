@@ -1,4 +1,4 @@
-// X (Twitter) Number Checker API — Go example. Docs: https://docs.numberchecker.ai/twitter-bulk-number-checker
+// X (Twitter) Number Checker API — Go example. Docs: See this repository README and openapi.yaml (hosted product guide unavailable)
 package main
 
 import (

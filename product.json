@@ -5,7 +5,7 @@
   "description": "Asynchronous bulk X (Twitter) verification API for NumberChecker.",
   "official_site": "https://numberchecker.ai",
   "landing_page": "https://numberchecker.ai/products/twitter-checker",
-  "canonical_docs": "https://docs.numberchecker.ai/twitter-bulk-number-checker",
+  "canonical_docs": null,
   "base_url": "https://api.numberchecker.ai",
   "auth": {
     "type": "api_key",
@@ -35,16 +35,19 @@
     {
       "type": "twitter",
       "name": "Number Checker",
-      "min": 2000,
+      "min": 1,
       "max": 10000000,
       "fields": [
         "number",
         "activated"
-      ]
+      ],
+      "min_billable_numbers": 500,
+      "available": true
     }
   ],
   "pricing_url": "https://numberchecker.ai/pricing",
   "maintainer": "NumberChecker",
   "license": "MIT",
-  "last_reviewed": "2026-08-18"
+  "last_reviewed": "2026-10-30",
+  "documentation_status": "product_specific_hosted_guide_unavailable"
 }
